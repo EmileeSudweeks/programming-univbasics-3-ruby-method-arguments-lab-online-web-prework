@@ -1,4 +1,7 @@
 describe #introduction do
+  it "takes in the argument (name)" do
+outputs the phrase "Hi, my name is #{name}" 
+end
 
 
 
